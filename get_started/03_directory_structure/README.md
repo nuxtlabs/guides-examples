@@ -1,0 +1,1 @@
+[Get Started Book - Directory Structure](https://nuxtjs.org/guides/get-started/directory-structure)

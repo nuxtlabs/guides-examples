@@ -1,0 +1,1 @@
+[Directory Structure Book - Store](https://nuxtjs.org/guides/directory-structure/store)

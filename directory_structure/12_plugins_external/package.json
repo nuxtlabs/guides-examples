@@ -1,0 +1,13 @@
+{
+    "name": "my-nuxt-project",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "export": "nuxt export"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.10.3",
+        "nuxt": "^2.13.1"
+    }
+}

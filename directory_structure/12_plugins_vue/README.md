@@ -1,0 +1,1 @@
+[Directory Structure Book - Plugins Vue](https://nuxtjs.org/guides/directory-structure/plugins#vue-plugins)

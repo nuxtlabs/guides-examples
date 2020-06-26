@@ -1,0 +1,1 @@
+[Directory Structure Book - Components](https://nuxtjs.org/guides/directory-structure/components)

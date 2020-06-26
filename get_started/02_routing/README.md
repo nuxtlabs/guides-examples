@@ -1,0 +1,1 @@
+[Get Started Book - Routing](https://nuxtjs.org/guides/get-started/routing)

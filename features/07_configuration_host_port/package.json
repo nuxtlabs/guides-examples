@@ -1,0 +1,13 @@
+{
+    "name": "my-nuxt-project",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "export": "nuxt export",
+        "dev:mobile": "nuxt --hostname '0' --port 8000"
+    },
+    "dependencies": {
+        "nuxt": "^2.13.1"
+    }
+}

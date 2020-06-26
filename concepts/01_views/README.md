@@ -1,0 +1,1 @@
+[Concepts Book - Views](https://nuxtjs.org/guides/concepts/views)

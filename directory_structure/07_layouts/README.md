@@ -1,0 +1,1 @@
+[Directory Structure Book - Layouts](https://nuxtjs.org/guides/directory-structure/layouts)

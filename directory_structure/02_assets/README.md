@@ -1,0 +1,1 @@
+[Directory Structure Book - Views](https://nuxtjs.org/guides/directory-structure/assets)
