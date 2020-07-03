@@ -15,6 +15,12 @@ export default {
     ** Build Modules - https://nuxtjs.org/guides/directory-structure/modules
     */
     buildModules: [
-        '~/modules/nuxt-api'
-    ]
+        '~/modules/nuxt-api',
+    ],
+    /*
+    ** Modules - https://nuxtjs.org/guides/directory-structure/modules
+    */
+    modules: [
+        '~/myModule'
+     ]
 }
