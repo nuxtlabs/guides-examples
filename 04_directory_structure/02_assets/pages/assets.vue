@@ -22,7 +22,7 @@ section{
     justify-content: center;
 }
 .imgbg{
-    background: url("/~assets/logo.svg");
+    background: url("~assets/logo.svg");
     height: 120px;
     width: 159px;
 }
