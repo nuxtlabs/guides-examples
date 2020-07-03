@@ -5,7 +5,7 @@
         <NuxtLink to="/">Home</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/own-plugins">Own Plugins</NuxtLink>
+        <NuxtLink to="/custom-plugins">Custom Plugins</NuxtLink>
       </li>
     </ul>
   </nav>
