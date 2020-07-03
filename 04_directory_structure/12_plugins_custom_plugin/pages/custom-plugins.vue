@@ -6,6 +6,7 @@
             <NuxtLink :to="`posts/${post.id}`">{{post.title}}</NuxtLink>
           </li>
         </ul>
+        <p>Type some text and press enter to see it appear below</p>
       <input type="text" @keyup.enter="changeHelloMessage" placeholder="Change me">
       <p>Hello: {{showNewHelloMessage}}</p>
 
