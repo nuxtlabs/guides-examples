@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="@/assets/logo.svg" alt="nuxt">
+            <img src="~/assets/logo.svg" alt="nuxt">
             <p>Image Tag</p>
         </div>
         <div>
@@ -22,7 +22,7 @@ section{
     justify-content: center;
 }
 .imgbg{
-    background: url("/@assets/logo.svg");
+    background: url("/~assets/logo.svg");
     height: 120px;
     width: 159px;
 }

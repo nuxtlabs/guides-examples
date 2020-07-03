@@ -9,7 +9,7 @@
     </NuxtLink>
     <div>
       <span>username</span>
-      <img src="@/assets/logo.svg" alt="">
+      <img src="~/assets/logo.svg" alt="">
 
     </div>
   </header>
