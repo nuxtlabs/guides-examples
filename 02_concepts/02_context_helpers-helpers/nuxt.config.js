@@ -12,7 +12,7 @@ export default {
   /*
    ** Rendering Modes - https://nuxtjs.org/guides/features/rendering-modes
    */
-  ssr: 'false',
+  ssr: false,
 
   /*
    ** Head Property - https://nuxtjs.org/guides/features/meta-tags-seo
