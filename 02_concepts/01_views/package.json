@@ -1,12 +1,12 @@
 {
-    "name": "my-nuxt-project",
-    "scripts": {
-        "dev": "nuxt",
-        "build": "nuxt build",
-        "start": "nuxt start",
-        "generate": "nuxt build && export"
-    },
-    "dependencies": {
-        "nuxt": "^2.13.1"
-    }
+  "name": "my-nuxt-project",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt build && export"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.5"
+  }
 }
