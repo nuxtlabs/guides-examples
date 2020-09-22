@@ -4,9 +4,9 @@
         "dev": "nuxt",
         "build": "nuxt build",
         "start": "nuxt start",
-        "export": "nuxt export"
+        "generate": "nuxt generate"
     },
     "dependencies": {
-        "nuxt": "^2.13.1"
+        "nuxt": "^2.14.5"
     }
 }
