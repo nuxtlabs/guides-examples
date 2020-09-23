@@ -62,7 +62,12 @@ a.nuxt-link-active {
   font-weight: bold;
 }
 
-/* links that are prefetched are underlined just as example to show how prefetched works */
+/* links that are prefetched are underlined just as example to show how prefetched works. This class is activated in the nuxt.confg file */
 a.nuxt-link-prefetched {
   text-decoration: underline;
+}
+
+/* Uncomment the class in the nuxt.config to rename it and then use this class instead of the default class  */
+a.my-custom-exact-active-link {
+  color: purple;
 }
