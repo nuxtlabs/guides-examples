@@ -1,11 +1,11 @@
 <template>
   <div>
-    <h1>Hello Nuxters! 👋</h1>
+    <h1>Hello Nuxters!</h1>
   </div>
 </template>
 
 <script>
-export default {
-  transition: 'bounce'
-}
+  export default {
+    transition: 'bounce',
+  }
 </script>
