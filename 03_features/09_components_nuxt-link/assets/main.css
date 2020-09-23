@@ -21,10 +21,6 @@ a:hover {
   color: var(--primary-color);
 }
 
-a.nuxt-link-exact-active {
-  color: var(--primary-color);
-}
-
 button {
   background: var(--primary-color);
   padding: 0.75rem 1.5rem;
@@ -56,10 +52,17 @@ main {
   text-align: center;
 }
 
-/* a.nuxt-link-active {
-  color:orangeRed;
-} */
+/* exact link will show the primary color */
+a.nuxt-link-exact-active {
+  color: var(--primary-color);
+}
 
+/* home route and route will show in bold as it matches / and /fun for example */
+a.nuxt-link-active {
+  font-weight: bold;
+}
+
+/* links that are prefetched are underlined just as example to show how prefetched works */
 a.nuxt-link-prefetched {
-  color: darkgrey;
+  text-decoration: underline;
 }
