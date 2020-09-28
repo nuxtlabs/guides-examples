@@ -21,6 +21,6 @@ export default {
     subFolders: false,
     fallback: '404.html',
     exclude: [/admin/],
-    // dir: 'my-dist',
+    dir: 'my-dist',
   },
 }
