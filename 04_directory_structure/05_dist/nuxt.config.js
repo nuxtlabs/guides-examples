@@ -10,6 +10,11 @@ export default {
   css: ['~/assets/main.css'],
 
   /*
+   ** static generation
+   */
+  target: 'static',
+
+  /*
    ** generate property
    */
   generate: {
