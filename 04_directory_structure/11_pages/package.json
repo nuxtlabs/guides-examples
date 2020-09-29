@@ -1,7 +1,7 @@
 {
   "name": "my-nuxt-project",
   "scripts": {
-    "dev": "nuxt dev",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
