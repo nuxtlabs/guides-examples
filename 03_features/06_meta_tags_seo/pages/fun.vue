@@ -21,8 +21,7 @@ export default {
         content: 'The amazing Nuxt.js application that teaches me all the cool features of Nuxt.js and lots of fun' }
       ],
     }
-  },
-  layout: 'fun'
+  }
 }
 </script>
 <style scoped>

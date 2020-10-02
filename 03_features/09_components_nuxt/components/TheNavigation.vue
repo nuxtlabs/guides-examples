@@ -5,12 +5,6 @@
         <NuxtLink to="/">Home</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/fun">Fun</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/more-fun">More Fun</NuxtLink>
-      </li>
-      <li>
         <NuxtLink to="/parent">Parent</NuxtLink>
       </li>
     </ul>

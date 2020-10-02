@@ -13,16 +13,4 @@ export default {
    ** Rendering Modes - https://nuxtjs.org/guides/features/rendering-modes
    */
   ssr: false,
-
-  /*
-   ** Head Property - https://nuxtjs.org/guides/features/meta-tags-seo
-   */
-  head: {
-    bodyAttrs: {
-      class: 'bodyAttrs bodyAttrs2',
-    },
-    htmlAttrs: {
-      class: 'htmlAttrs',
-    },
-  },
 }
