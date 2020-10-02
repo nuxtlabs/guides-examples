@@ -4,10 +4,10 @@
     <nav>
       <ul>
         <li>
-          <NuxtLink to="/fun">Fun page</NuxtLink>
+          <NuxtLink to="/fun">Fun</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/more-fun">More fun page</NuxtLink>
+          <NuxtLink to="/more-fun">More fun</NuxtLink>
         </li>
       </ul>
     </nav>

@@ -1,4 +1,3 @@
 export const state = () => ({
-  // authenticated: false
-  authenticated: true
+  authenticated: false,
 })

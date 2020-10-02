@@ -12,14 +12,11 @@
       try {
         const post = await $http.$get(`https://api.nuxtjs.dev/posts/${id}`)
         return { post }
-      } catch (error) {
-        error(error)
-      }
-    },
-    middleware({ store, redirect }) {
-      const isAuthenticated = store.state.authenticated
-      if (!isAuthenticated) {
-        return redirect('/')
+      } catch (e) {
+        return error({
+          message: 'This post does not exist',
+          statusCode: 404,
+        })
       }
     },
   }

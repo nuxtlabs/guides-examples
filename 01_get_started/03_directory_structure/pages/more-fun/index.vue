@@ -1,9 +1,15 @@
 <template>
   <main>
-    <TheNavigation />
-    <img src="~/assets/logo.svg" />
     <h1>Having more fun with Nuxt.js</h1>
+    <nav>
+      <ul>
+        <li>
+          <NuxtLink to="/">Home page</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/fun">Fun page</NuxtLink>
+        </li>
+      </ul>
+    </nav>
   </main>
 </template>
-
-
