@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Hello Nuxters! 👋</h1>
-  </div>
+<div>
+     <img src="/logo.svg" alt="nuxt">
+     <p>Image from Static folder</p>
+</div>
 </template>
-

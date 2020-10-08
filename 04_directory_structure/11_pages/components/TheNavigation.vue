@@ -2,13 +2,10 @@
   <nav>
     <ul>
       <li>
-        <NuxtLink to="/">Home</NuxtLink>
-      </li>
-      <li>
         <NuxtLink to="/rivers">Rivers</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/mountains">Mountains</NuxtLink>
+        <NuxtLink to="/">Mountains</NuxtLink>
       </li>
     </ul>
   </nav>
