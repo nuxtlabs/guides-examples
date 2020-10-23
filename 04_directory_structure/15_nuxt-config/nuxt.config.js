@@ -14,8 +14,8 @@ export default {
     /*
     ** env property
     */
-    env: {
-	    apiUrl: "https://api.nuxtjs.dev"
+    publicRuntimeConfig: {
+        baseURL: "https://api.nuxtjs.dev"
     },
 
     /*
