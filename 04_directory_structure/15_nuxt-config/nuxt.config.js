@@ -12,10 +12,13 @@ export default {
     ],
 
     /*
-    ** env property
+    ** Runtime Config
     */
-    publicRuntimeConfig: {
-        baseURL: "https://api.nuxtjs.dev"
+
+   publicRuntimeConfig: {
+        axios: {
+            baseURL: "https://api.nuxtjs.dev"
+        }
     },
 
     /*

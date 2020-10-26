@@ -8,8 +8,8 @@
 </template>
 <script>
 export default {
-	async asyncData ({ $axios, $config: { baseURL } }) {
-	    const  posts  = await $axios.$get(`${baseURL}/posts`)
+	async asyncData ({ $axios, $config }) {
+	    const  posts  = await $axios.$get(`${$config.axios.baseURL}/posts`)
 	    return { posts }
 	}
 }
