@@ -9,7 +9,7 @@
 <script>
 export default {
 	async asyncData ({ $axios, $config }) {
-	    const  posts  = await $axios.$get(`${$config.axios.baseURL}/posts`)
+	    const  posts  = await $axios.$get(`/posts`)
 	    return { posts }
 	}
 }
