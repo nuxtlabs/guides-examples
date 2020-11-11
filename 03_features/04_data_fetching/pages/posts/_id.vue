@@ -5,9 +5,7 @@
         <img :src="post.image" :alt="post.title">
         <p>{{ post.description }}</p>
       </section>
-      <p>
-          <button @click="goBack">Back</button>
-      </p>
+      <button @click="goBack">Back</button>
   </article>
 </template>
 <script>
@@ -27,7 +25,8 @@ export default {
 </script>
 <style scoped>
 article {
-  margin: 1rem 0;
+  width: 600px;
+  margin: 0 auto;
 }
 img{
   height: 200px;
