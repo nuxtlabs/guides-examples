@@ -1,1 +1,1 @@
-[Features Book - Configuration Host and Port](https://nuxtjs.org/guides/features/configuration)
+[Features Book - Configuration Host and Port](https://nuxtjs.org/docs/2.x/features/configuration)

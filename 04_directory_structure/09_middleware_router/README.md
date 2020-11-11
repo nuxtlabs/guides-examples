@@ -1,1 +1,1 @@
-[Directory Structure Book - Router Middleware](https://nuxtjs.org/guides/directory-structure/middleware#router-middleware)
+[Directory Structure Book - Router Middleware](https://nuxtjs.org/docs/2.x/directory-structure/middleware#router-middleware)

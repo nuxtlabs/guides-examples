@@ -1,1 +1,1 @@
-[Features Book - Transitions](https://nuxtjs.org/guides/features/transitions)
+[Features Book - Transitions](https://nuxtjs.org/docs/2.x/features/transitions)

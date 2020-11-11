@@ -1,1 +1,1 @@
-[Directory Structure Book - Anonymous Middleware](https://nuxtjs.org/guides/directory-structure/middleware#anonymous-middleware)
+[Directory Structure Book - Anonymous Middleware](https://nuxtjs.org/docs/2.x/directory-structure/middleware#anonymous-middleware)

@@ -1,1 +1,1 @@
-[Features Book - NuxtLink Component](https://nuxtjs.org/guides/features/nuxt-components)
+[Features Book - NuxtLink Component](https://nuxtjs.org/docs/2.x/features/nuxt-components)

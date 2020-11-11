@@ -1,1 +1,1 @@
-[Directory Structure Book - Static](https://nuxtjs.org/guides/directory-structure/static)
+[Directory Structure Book - Static](https://nuxtjs.org/docs/2.x/directory-structure/static)

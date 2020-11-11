@@ -5,7 +5,10 @@
         <NuxtLink to="/">Home</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/posts">Posts</NuxtLink>
+        <NuxtLink to="/asyncdata">AsyncData</NuxtLink>
+      </li>
+      <li>
+        <NuxtLink to="/fetch">Fetch</NuxtLink>
       </li>
     </ul>
   </nav>

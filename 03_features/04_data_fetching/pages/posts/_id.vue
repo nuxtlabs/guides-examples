@@ -1,30 +1,27 @@
 <template>
   <article>
-    <p v-if="$fetchState.pending">Fetching post #{{ $route.params.id }} 😴</p>
-    <p v-else-if="$fetchState.error">Error while fetching posts 🤬</p>
-    <template v-else>
       <h1>{{ post.title }}</h1>
       <section>
         <img :src="post.image" :alt="post.title">
         <p>{{ post.description }}</p>
       </section>
       <p>
-          <NuxtLink to="/posts">Back to posts</NuxtLink>
+          <button @click="goBack">Back</button>
       </p>
-    </template>
   </article>
 </template>
 <script>
 export default {
   layout: 'posts',
-  data () {
-    return {
-      post: {}
-    }
+
+  async asyncData({$http, params}) {
+    const post = await $http.$get(`https://api.nuxtjs.dev/posts/${params.id}`)
+      return {post}
   },
-  async fetch() {
-    this.post = await fetch(`https://api.nuxtjs.dev/posts/${this.$route.params.id}`)
-      .then(res => res.json())
+  methods: {
+    goBack(){
+      return this.$router.go(-1)
+    }
   }
 }
 </script>

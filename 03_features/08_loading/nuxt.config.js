@@ -1,21 +1,21 @@
 export default {
   /*
-   ** Activate components - https://nuxtjs.org/guides/directory-structure/components#components-module
+   ** Activate components - https://nuxtjs.org/docs/2.x/directory-structure/components#components-module
    */
   components: true,
 
   /*
-   ** Global CSS - https://nuxtjs.org/guides/features/configuration#pre-processors
+   ** Global CSS - https://nuxtjs.org/docs/2.x/features/configuration#pre-processors
    */
   css: ['~/assets/main.css'],
 
   /*
-   ** Set ssr to false to see the loading indicator - https://nuxtjs.org/guides/features/rendering-modes
+   ** Set ssr to false to see the loading indicator - https://nuxtjs.org/docs/2.x/features/rendering-modes
    */
   // ssr: 'false',
 
   /*
-   ** modifying the loading indicator for spa  - https://nuxtjs.org/guides/features/loading
+   ** modifying the loading indicator for spa  - https://nuxtjs.org/docs/2.x/features/loading
    */
   loadingIndicator: {
     name: 'chasing-dots',

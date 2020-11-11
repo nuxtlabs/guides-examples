@@ -1,1 +1,1 @@
-[Directory Structure Book - Pages](https://nuxtjs.org/guides/directory-structure/pages)
+[Directory Structure Book - Pages](https://nuxtjs.org/docs/2.x/directory-structure/pages)

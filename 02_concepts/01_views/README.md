@@ -1,1 +1,1 @@
-[Concepts Book - Views](https://nuxtjs.org/guides/concepts/views)
+[Concepts Book - Views](https://nuxtjs.org/docs/2.x/concepts/views)

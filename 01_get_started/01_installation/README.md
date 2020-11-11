@@ -1,1 +1,1 @@
-[Get Started Book - Installation](https://nuxtjs.org/guides/get-started/installation)
+[Get Started Book - Installation](https://nuxtjs.org/docs/2.x/get-started/installation)

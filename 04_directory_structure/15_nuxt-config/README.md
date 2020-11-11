@@ -1,1 +1,1 @@
-[Directory Structure Book - nuxt.config](https://nuxtjs.org/guides/directory-structure/nuxt-config)
+[Directory Structure Book - nuxt.config](https://nuxtjs.org/docs/2.x/directory-structure/nuxt-config)
