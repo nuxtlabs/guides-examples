@@ -10,7 +10,6 @@
 </template>
 <script>
 export default {
-  layout: 'posts',
   async asyncData({$http}) {
     const posts = await $http.$get('https://api.nuxtjs.dev/posts')
     return { posts };
