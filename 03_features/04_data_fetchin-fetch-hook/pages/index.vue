@@ -4,8 +4,3 @@
   <BlogPosts />
 </div>
 </template>
-<script>
-export default {
-  layout: 'posts',
-}
-</script>
